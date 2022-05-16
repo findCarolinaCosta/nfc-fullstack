@@ -1,0 +1,6 @@
+[submodule "nfc-frontend"]
+	path = nfc-frontend
+	url = git@github.com:findCarolinaCosta/nfc-frontend.git
+[submodule "nfc-node-api"]
+	path = nfc-node-api
+	url = git@github.com:findCarolinaCosta/nfc-node-api.git
